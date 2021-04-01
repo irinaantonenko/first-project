@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+a { color: #000;
+    font-weight: bold;
+    font-size: 18px;
+}
+.link_color{
+    color: green;
+}
+body{
+    background:honeydew;
+    font-size: 1vw;
+
+}
+.container{
+    margin: 0 10% 5% 10%;
+}
+.section1{
+    background-color: khaki;
+    padding: 30px;
+    border: 1px solid #333; 
+    border-radius: 15px;
+    width: calc(33% - 60px);
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: normal;
+}
+.blog_preview{
+    letter-spacing: -0.36em;
+
+}
+hr{
+    box-sizing: 30;
+}

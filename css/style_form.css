@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+h1 {
+width: 100%;
+}
+header {
+    width: 100%;   
+}
+figure {
+
+ 
+    width: 15%;
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: normal;
+}
