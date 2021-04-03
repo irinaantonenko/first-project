@@ -1,0 +1,40 @@
+.container{
+    width: 940px;
+    margin: 0 auto;
+}
+h1{
+font-family: Open Sans;
+font-weight: bold;
+font-size: 50px;
+line-height: 1,36;
+color: #070707;
+}
+.header {
+    border-bottom:  2px solid #828282;
+}
+.nav_list{
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    margin: 30px 0;
+}
+.nav_item{
+    display: inline-block;
+    margin: 0 15px;
+}
+.nav_link{
+font-family: Open Sans;
+font-size: 18px;
+line-height: 1,4;
+color: #828282;
+padding: 0.3px;
+text-decoration: none;
+
+}
+.nav_link::first-letter{
+    text-transform: uppercase;
+}
+.home_img{
+margin-bottom: 100px;
+width: 100%;
+}
